@@ -1,1 +1,13 @@
 
+{
+  "nodes": [
+    {
+      "name": "CPA-Node",
+      "url": "blocks.cryptopay.org.za",
+      "port": 13281,
+      "ssl": true,
+      "cache": false
+    }
+  
+  ]
+}
