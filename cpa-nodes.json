@@ -7,7 +7,15 @@
       "port": 13281,
       "ssl": true,
       "cache": false
+    },
+      {
+      "name": "CPA-Node",
+      "url": "157.245.174.176",
+      "port": 13281,
+      "ssl": false,
+      "cache": false
     }
-  
   ]
 }
+
+
