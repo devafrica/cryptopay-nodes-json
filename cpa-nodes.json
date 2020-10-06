@@ -5,14 +5,14 @@
       "name": "CPA-Node-1",
       "url": "node.cryptopay.org.za",
       "port": 13281,
-      "ssl": false,
+      "ssl": true,
       "cache": false
     },
       {
       "name": "CPA-Node-2",
       "url": "blocks.cryptopay.org.za",
       "port": 13281,
-      "ssl": false,
+      "ssl": true,
       "cache": false
     }
   ]
